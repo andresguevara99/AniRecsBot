@@ -4,7 +4,7 @@ Anime Recommendations Bot for Discord
 ## Background
 My friends on discord were having trouble finding new anime to watch so I coded a Discord bot to give them anime reccomendations
 
-The Bot utilizes the public [jikan](https://jikan.docs.apiary.io/#introduction/information) API that I use to access a massive dataset of old and new anime from MyAnimeList
+The Bot utilizes the [discord.py] (https://discordpy.readthedocs.io/en/stable/#) Discord pythonic API wrapper and the public [jikan](https://jikan.docs.apiary.io/#introduction/information) API that is used to access a massive dataset of old and new anime from MyAnimeList
 
 ### Installation
 This bot utilizes a **Replit** HTTP web server (using **Flask**) with an uptime bot from [uptimerobot](https://uptimerobot.com/) in order to continously run in the background 
