@@ -20,4 +20,6 @@ Once this is setup, and you can see the individual pings from *uptimerobot* you 
 ### How to use the bot
 Currently, the only command the bot has is `!rec` which will return the name, rating (out of 10), episode count, and synopsis (if available) of a randomly chosen anime.
 
+![Picture](C:\Users\Andres\Pictures\Saved Pictures "Text to show on mouseover")
+
 More features to come!
