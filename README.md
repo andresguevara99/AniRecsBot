@@ -13,7 +13,7 @@ If you want to do it this way, and not pay for your own web server follow the di
 
 After downloading the code you're going to want to go to [discord dev](https://discord.com/developers/docs/intro) and register your own bot. Once you do this you can get your own token which can then be stored as the variable `DISCORD_TOKEN` in an .env file
 
-Secondly, within the repl workspace you want to run your code and retrieve the flask URL. This URL will be the on you ping on **uptimerobot** 
+Secondly, within the repl workspace you want to run your code and retrieve the flask URL. This URL will be the one you ping on **uptimerobot** 
 
 Once this is setup, and you can see the individual pings from *uptimerobot* you want to add your bot to a discord guild within the developer portal
 
