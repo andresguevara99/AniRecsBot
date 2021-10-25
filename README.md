@@ -22,3 +22,5 @@ Currently, the only command the bot has is `!rec` which will return the name, ra
 
 
 More features to come!
+
+![anirecsbot](https://github.com/andresguevara99/AniRecsBot/tree/master/AniRecs.png "Picture of !rec functionality")
